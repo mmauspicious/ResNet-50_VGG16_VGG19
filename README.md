@@ -13,6 +13,4 @@ Below is a refined overview of seven key mineral categories:
 - Malachite: Malachite is a green mineral composed of copper carbonate hydroxide. It is renowned for its striking banded patterns and the spectrum of green hues—from light to nearly black. Typically, malachite forms as stalactite-like or botryoidal structures on the surfaces of underground cavities, resembling calcite deposits found in caves. Although it rarely occurs in crystalline form, when present, its crystals are generally needle-shaped or flat, exhibiting an opaque, light-green appearance with a vitreous to adamantine luster.
 - Pyrite: Pyrite, an iron sulfide mineral, is easily recognizable by its metallic luster and high specific gravity. It commonly exhibits brassy yellow or yellowish-gray tones. As one of nature’s most abundant minerals, pyrite displays considerable variation in shape—a direct result of differing environmental conditions and crystal growth processes during its formation.
 
-&nbsp;  
-
 [1] https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset.
