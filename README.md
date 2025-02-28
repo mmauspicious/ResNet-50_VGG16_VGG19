@@ -14,8 +14,8 @@ Identification of minerals in mining engineering presents numerous challenges. T
 
 Over the years, researchers have deepened neural network architectures by adding more layers to tackle complex tasks and enhance performance. However, this increased depth often complicates training and can lead to reduced accuracy, largely due to the vanishing gradient problem. ResNet (Residual Network) addresses these issues by introducing skip connections—also known as residual connections. These connections provide shortcut paths that bypass one or more layers, allowing gradients to flow more effectively during training. 
 
-The ResNet-50 architecture is inspired by [AI - School of Mechanical Engineering - Tehran University - 2022]
-
 Transfer learning is a highly efficient approach in deep learning that leverages models pre-trained on extensive datasets. By reusing these learned weights, you can quickly develop a custom model tailored to your specific task without starting from scratch. The VGG network, for instance, is available in two primary architectures—VGG‑16 and VGG‑19. Initially, the VGG‑16 model was introduced, and later, the VGG‑19 model emerged as a refined version with minor architectural modifications.
+
+The ResNet-50 architecture is inspired by [AI course - School of Mechanical Engineering - Tehran University - 2022]
 
 [1] https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset.
