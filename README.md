@@ -1,6 +1,6 @@
 **Minerals Identification**  
 
-**Applying VGG-16, VGG-19, and ResNet-50 on Kaggle Dataset [1].**
+**Applying VGG16, VGG19, and ResNet-50 on Kaggle Dataset [1].**
 
 Identification of minerals in mining engineering presents numerous challenges. Traditional methods often require specialized expertise and remain prone to error, whereas deep learning techniques promise simpler and more effective approaches. 
 
