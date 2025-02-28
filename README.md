@@ -1,6 +1,6 @@
 **Minerals Identification**  
 
-**Applying VGG16, VGG19, and ResNet-50 on Kaggle Dataset [1].**
+**Applying ResNet-50, VGG16, and VGG19 on Kaggle Dataset [1].**
 
 Identification of minerals in mining engineering presents numerous challenges. Traditional methods often require specialized expertise and remain prone to error, whereas deep learning techniques promise simpler and more effective approaches. Below is a refined overview of seven key mineral categories:
 
@@ -12,6 +12,10 @@ Identification of minerals in mining engineering presents numerous challenges. T
 - Malachite: Malachite is a green mineral composed of copper carbonate hydroxide. It is renowned for its striking banded patterns and the spectrum of green hues—from light to nearly black. Typically, malachite forms as stalactite-like or botryoidal structures on the surfaces of underground cavities, resembling calcite deposits found in caves. Although it rarely occurs in crystalline form, when present, its crystals are generally needle-shaped or flat, exhibiting an opaque, light-green appearance with a vitreous to adamantine luster.
 - Pyrite: Pyrite, an iron sulfide mineral, is easily recognizable by its metallic luster and high specific gravity. It commonly exhibits brassy yellow or yellowish-gray tones. As one of nature’s most abundant minerals, pyrite displays considerable variation in shape—a direct result of differing environmental conditions and crystal growth processes during its formation.
 
-The ResNet-50 architecture is inspired by [Artificial Intelligence course - School of Mechanical Engineering - Tehran University - 2022]
+Over the years, researchers have deepened neural network architectures by adding more layers to tackle complex tasks and enhance performance. However, this increased depth often complicates training and can lead to reduced accuracy, largely due to the vanishing gradient problem. ResNet (Residual Network) addresses these issues by introducing skip connections—also known as residual connections. These connections provide shortcut paths that bypass one or more layers, allowing gradients to flow more effectively during training. 
+
+The ResNet-50 architecture is inspired by [AI - School of Mechanical Engineering - Tehran University - 2022]
+
+Transfer learning is a highly efficient approach in deep learning that leverages models pre-trained on extensive datasets. By reusing these learned weights, you can quickly develop a custom model tailored to your specific task without starting from scratch. The VGG network, for instance, is available in two primary architectures—VGG‑16 and VGG‑19. Initially, the VGG‑16 model was introduced, and later, the VGG‑19 model emerged as a refined version with minor architectural modifications.
 
 [1] https://www.kaggle.com/datasets/asiedubrempong/minerals-identification-dataset.
