@@ -12,7 +12,7 @@ Identification of minerals in mining engineering presents numerous challenges. T
 - Malachite: Malachite is a green mineral composed of copper carbonate hydroxide. It is renowned for its striking banded patterns and the spectrum of green hues—from light to nearly black. Typically, malachite forms as stalactite-like or botryoidal structures on the surfaces of underground cavities, resembling calcite deposits found in caves. Although it rarely occurs in crystalline form, when present, its crystals are generally needle-shaped or flat, exhibiting an opaque, light-green appearance with a vitreous to adamantine luster.
 - Pyrite: Pyrite, an iron sulfide mineral, is easily recognizable by its metallic luster and high specific gravity. It commonly exhibits brassy yellow or yellowish-gray tones. As one of nature’s most abundant minerals, pyrite displays considerable variation in shape—a direct result of differing environmental conditions and crystal growth processes during its formation.
 
-**Applying ResNet-50, VGG16, and VGG19 on Kaggle Dataset [1].**
+**Applying ResNet-50, VGG16, and VGG19 architectures on Kaggle Dataset [1].**
 
 Over the years, researchers have deepened neural network architectures by adding more layers to tackle complex tasks and enhance performance. However, this increased depth often complicates training and can lead to reduced accuracy, largely due to the vanishing gradient problem. ResNet (Residual Network) addresses these issues by introducing skip connections—also known as residual connections. These connections provide shortcut paths that bypass one or more layers, allowing gradients to flow more effectively during training. 
 
